@@ -150,11 +150,11 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20 px-6 sm:px-8 lg:px-12 bg-gradient-to-t from-gray-900 to-black">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl sm:text-5xl font-bold mb-6 text-white">Let's Connect</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-6 text-white">Let&apos;s Connect</h2>
           <div className="h-1 w-24 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mb-8"></div>
           <p className="text-xl text-gray-400 mb-12 max-w-2xl mx-auto">
             Ready to discuss your next digital innovation project? 
-            Let's explore how we can transform your ideas into reality.
+            Let&apos;s explore how we can transform your ideas into reality.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
